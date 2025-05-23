@@ -57,3 +57,14 @@ Tips:
 - Fine-tune X and Y to make your aim smoother and keep shots on target!
 - Right click on a operator to favorite!
 - Make custom Hotkeys in Settings!
+
+---
+
+## 🆘 Support & Community
+Join our Discord server for:
+
+- Latest updates
+  
+- Community support
+
+- Detailed instructions and troubleshooting
