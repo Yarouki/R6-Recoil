@@ -1,6 +1,6 @@
 ## 🎯 Features 
 
-- Intuitive GUI: Built with CustomTkinter for a sleek, dark-themed interface that's easy to navigate.
+- Intuitive GUI: Built with html,css and json on eel for a sleek, dark-themed interface that's easy to navigate.
 
 - Operator-Specific Presets: Customize recoil settings for each operator, with support for 1x and 2.5x scopes.
 
